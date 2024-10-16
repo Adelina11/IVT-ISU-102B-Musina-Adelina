@@ -36,7 +36,7 @@ https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank
 
 **Задание 8**
 Пустая диаграмма:
-![простой алгоритм](https://github.com/user-attachments/assets/17887de0-2410-4aaa-ba79-51f1dd6f7147)
+![простой алгоритм](![image](https://github.com/user-attachments/assets/5364bded-872e-4ae6-b471-7094a4b38369))
 
 **Задание 9**
 Во всех четырех форматах диаграмма отображается корректно. В формате png качество при приближении ухуджается в отличии от других форматов.
