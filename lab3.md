@@ -59,11 +59,12 @@ png:
 svg формат отображается в браузере без потери качества:
 
 
-![image](https://github.com/user-attachments/assets/5e059f34-cbac-4670-a404-3a3f2bd0fbbf)
+![image](![image](https://github.com/user-attachments/assets/78c07599-3b99-4242-9f19-fc834e1fa0cf)
+)
 
 в png формате:
 
-![mermaid-diagram-2024-10-16-091641](https://github.com/user-attachments/assets/160f2f1c-013c-4e30-a6f2-f385a806b331)
+![mermaid-diagram-2024-10-16-091641](![image](https://github.com/user-attachments/assets/1ff40e10-7820-4d6f-a99f-db0d530926df)
 
 **Задание 12**
 
