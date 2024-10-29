@@ -251,7 +251,8 @@ Yandex Wiki — это бесплатный сервис для создания
 
 **Задание 34**
 
-![image](https://github.com/user-attachments/assets/d129431a-0aaa-4eb3-ac0a-c602a448c909)
+![image](https://github.com/user-attachments/assets/255ba56c-99d6-4572-afb4-1dcfaab1bcaf)
+
 
 **Задание 35**
 
