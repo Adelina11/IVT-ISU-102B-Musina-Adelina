@@ -73,7 +73,8 @@ svg формат отображается в браузере без потер�
 
 **Задание 13**
 
-![image](https://github.com/user-attachments/assets/e776c22c-888f-46d0-97bd-444ce85e0646)
+![image](https://github.com/user-attachments/assets/ca8a2344-31bd-4e8b-8c06-8498e3cc456a)
+
 
 **Задание 14**
 
