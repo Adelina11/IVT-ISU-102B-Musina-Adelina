@@ -82,7 +82,8 @@ svg формат отображается в браузере без потер�
 
 **Задание 15**
 
-![image](https://github.com/user-attachments/assets/85158102-1607-4df6-9fbf-826fd2f32ca7)
+![image](https://github.com/user-attachments/assets/b216021c-5a16-4436-bdfd-84acde87fc19)
+
 
 **Задание 16**
 
@@ -111,15 +112,18 @@ Multiline string (многострочная строка) — это строк
 
 **Задание 17**
 
-![image](https://github.com/user-attachments/assets/211e9d05-6fa7-47ab-b00e-e20447a9492e)
+![image](https://github.com/user-attachments/assets/bb52474d-35df-4d8c-8fda-8a77a2193ee9)
+
 
 **Задание 18**
 
 код программы:
 
-![image](https://github.com/user-attachments/assets/8a85f6ab-a66a-4ef0-bd76-b73dfa769af1)
+![image](https://github.com/user-attachments/assets/223991fd-1cfa-4215-b9df-185af1446a31)
 
-![image](https://github.com/user-attachments/assets/9132bea4-16ce-4be1-9905-8c81cac141d4)
+
+![image](https://github.com/user-attachments/assets/5087d87a-45b0-4139-bbf6-ee71606a5923)
+
 
 **Задание 19**
 
